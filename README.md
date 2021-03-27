@@ -2,7 +2,7 @@
 
 This Project Uses the Customized Authentication Providers to achieve MultiFactor Authentication and generates a valid JWT upon the validation
 
-#Working
+# Working
 
 * Step 1 : The user has to register (Users are stored in the local DB)
 * Step 2 : The User has to provide the credentials which is validated by the UserDetailsService of Spring Security. If the user provides valid credentials
